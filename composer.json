@@ -1,0 +1,17 @@
+{
+    "name": "root/casauto-custom-inventory",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "CasautoCustomInventory\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nearshoreffreeman",
+            "email": "frank.freeman@nearshoretechnology.com"
+        }
+    ],
+    "require": {}
+}
